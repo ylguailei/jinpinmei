@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LoadingActivity!</string>
+    <string name="app_name">金瓶梅</string>
+    <string name="catalog">目录</string>
+    <string name="last_time_readed">继续上次阅读</string>
+    <string name="start_reading">开始阅读</string>
+    <string name="bookmark">序跋</string>
+    <string name="about">关于</string>
+    <string name="back_main_view">返回</string>
+    <string name="book_name">金瓶梅（上）</string>
+    <string name="chapter_name">第一百回　韩爱姐路遇二捣鬼　普静师幻度孝哥儿</string>
+    <string name="is_last_page">已经是最后一页了!</string>
+    <string name="is_first_page">已经是第一页了!</string>
+    <string name="about_text">谢谢您使用本软件!</string>
+    <string name="ok_btn">确定</string>
+    <string name="cancel_btn">取消</string>
+    <string name="exit_dialog_title">退出</string>
+    <string name="exit_dialog_content">是否退出软件？</string>
+    <string name="back_to_main">返回主页面</string>
+    <string name="menu_start_up_anim">开机动画</string>
+	<string name="pagename">com.jinpinmei</string>
+	<string name="otherbook">黑丝系列,浓情快史</string>
+</resources>
